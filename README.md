@@ -1,27 +1,86 @@
 <div align="center">
 
-<!-- Banner tático / Gaming (pode usar um banner personalizado de CS/R6) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,10&height=180&section=header&text=ALISON%20PADILHA&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+# `> Olá, eu sou o Alison_`
 
-### 🎯 Developer & Cybersecurity Enthusiast | Tactical Operator 🛡️
+**Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Cibersegurança**
 
-*"Defusing bugs like a bomb on B site, securing systems like an R6 Anchor."*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-ADS%20Student-FF7700?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0052CC?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Main-CS%20%26%20R6-24292e?style=for-the-badge&logo=steam&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 📡 Loadout & Habilidades
+## 👾 Sobre mim
 
-```bash
-[+] Operador: Alison Luiz Padilha
-[+] Especialização: Análise e Desenvolvimento de Sistemas
-[+] Blindagem / Defesa: Cibersegurança & Práticas de Código Seguro
-[+] Arsenal de Código: Python, C, SQL, HTML/CSS
-[+] Modo Competitivo: Counter-Strike & Rainbow Six Siege
+```python
+class Alison:
+    def __init__(self):
+        self.nome = "Alison Luiz Padilha"
+        self.curso = "Análise e Desenvolvimento de Sistemas"
+        self.foco = ["Python", "SQL", "Cibersegurança"]
+        self.status = "Aprendendo todo dia"
+        self.hobbies = ["CS", "Rainbow Six", "Valorant", "Rock"]
+
+    def objetivo(self):
+        return "Evoluir, construir projetos e me tornar bom no que faço."
+```
+
+Ainda não sou profissional da área, estou aprendendo tudo agora e documentando a jornada por aqui. Meu foco é ficar muito bom em **Python**, **SQL** e **cibersegurança**.
+
+---
+
+## 🛠️ Stack e estudos
+
+| Área | O que estou estudando |
+|------|-----------------------|
+| 🐍 **Python** | Lógica de programação, automações, scripts e POO |
+| 🗄️ **SQL** | Modelagem de dados, consultas, JOINs e banco relacional |
+| 🔐 **Cibersegurança** | Fundamentos de segurança, redes, Linux e boas práticas |
+| 🧰 **Ferramentas** | Git, GitHub, terminal e VS Code |
+
+---
+
+## 🚀 Projetos
+
+> Em breve, os projetos que eu for construindo vão aparecer aqui.
+
+<!-- Exemplo de como adicionar um projeto:
+### [nome-do-projeto](link-do-repositorio)
+Descrição curta do que o projeto faz. `Python` `SQL`
+-->
+
+---
+
+## 🎯 Metas
+
+- [ ] Dominar os fundamentos de Python
+- [ ] Criar meus primeiros projetos com SQL
+- [ ] Praticar cibersegurança em plataformas como TryHackMe e Hack The Box
+- [ ] Manter este GitHub sempre ativo
+
+---
+
+## 🎮 Fora do código
+
+Gosto de jogos competitivos como **CS**, **Rainbow Six** e **Valorant**, e de uma boa playlist de **rock**. Competir me ensinou a evoluir com prática, foco e muita repetição, e levo isso para os estudos.
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE-SEU-LINK-AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true)
+
+*"Um bug de cada vez."* 🐛
+
+</div>
