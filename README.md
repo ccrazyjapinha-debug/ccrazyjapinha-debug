@@ -29,7 +29,7 @@ class Alison:
         return "Evoluir, construir projetos e me tornar bom no que faço."
 ```
 
-Ainda não sou profissional da área, estou aprendendo tudo agora e documentando a jornada por aqui. Meu foco é ficar muito bom em **Python**, **SQL** e **cibersegurança**.
+Ainda não sou profissional da área, estou aprendendo tudo agora e documentando a jornada por aqui. Meu foco é  **Python**, **SQL** e **cibersegurança**, como base sólida e aprendendo sempre.
 
 ---
 
